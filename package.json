@@ -12,7 +12,7 @@
     "typescript",
     "course"
   ],
-  "author": "Matchu Pitchu",
+  "author": "Michael Flohr",
   "license": "ISC",
   "devDependencies": {
     "@types/lodash": "^4.14.146",
