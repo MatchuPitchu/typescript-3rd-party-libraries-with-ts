@@ -12,7 +12,7 @@
     "typescript",
     "course"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Matchu Pitchu",
   "license": "ISC",
   "devDependencies": {
     "@types/lodash": "^4.14.146",
