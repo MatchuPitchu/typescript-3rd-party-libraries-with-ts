@@ -1,7 +1,7 @@
 # Using JavaScript Libraries with TypeScript
 
 - some libraries are pure JS libraries built for Vanilla JS (like e.g. lodash)
-- TS doesn't understand, so TS outputs errors
+- TS doesn't understand, so TS outputs errors, even though it works technically because TS is only a superset of JS
 - solution: searching for @types packages on npm (https://www.npmjs.com/) like `@types/lodash`; package helps to translate JS to TS, that means it defines types the library works with
 
 # Helpful libraries for TypeScript
