@@ -4,7 +4,7 @@
 - TS doesn't understand, so TS outputs errors
 - solution: searching for @types packages on npm (https://www.npmjs.com/) like `@types/lodash`; package helps to translate JS to TS, that means it defines types the library works with
 
-## Helpful libraries for TypeScript
+# Helpful libraries for TypeScript
 
 - Class Transformer: https://github.com/typestack/class-transformer
 
